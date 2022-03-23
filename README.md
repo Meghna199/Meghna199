@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Meghna199
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning
--     I'm currently intern at SeekACE Solution
+-     I'm currently working at SeekACE Solution as Associative Data Scientist 
 - 📫 E mail me at jangidmeghna12@gmail.com
--    I'm currently persuing MCA from Maharishi Arvind Institue of Science and Managment 
--    I had completed BCA with agrregate 70%
--    I had completed an online Data Analysis course from Mass Street University
--    I had completed the workshop on Neural Network conducted by Learnand Build
+-    I have completed my MCA from Maharishi Arvind Institue of Science and Managment 
+-    I have completed BCA with agrregate 70%
+-    I have completed an online Data Analysis course from Mass Street University
+-    I have completed the workshop on Neural Network conducted by Learnand Build
 -    I participated in Microsoft AI Classroom Series
 -    I completed a 6 month course on supervied learning in Artificial Intellegence
 <!---
