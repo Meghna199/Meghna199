@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Meghna199
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Machine Learning
--     I'm currently working at SeekACE Solution as Associative Data Scientist 
+-     I'm currently working at AdvantMed India LLC as Data Scientist 
 - 📫 E mail me at jangidmeghna12@gmail.com
--    I have completed my MCA from Maharishi Arvind Institue of Science and Managment 
+-    I have completed my MCA with agrregate 73%
 -    I have completed BCA with agrregate 70%
 -    I have completed an online Data Analysis course from Mass Street University
 -    I have completed the workshop on Neural Network conducted by Learnand Build
